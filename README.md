@@ -1,6 +1,6 @@
 # Password Cracker
 
-** Notice **
+**Notice**
 ---
 This is an attempt to reacreate
 the password cracker script
